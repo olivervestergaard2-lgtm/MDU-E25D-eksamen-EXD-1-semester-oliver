@@ -9,7 +9,7 @@ html, body {
 }
 
 body{
-    background-image: url("../images/baggrund hav 1.png");
+    background-image: url("images/baggrund hav 1.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -168,4 +168,3 @@ img{
         opacity: 0;
     }
 }
-
